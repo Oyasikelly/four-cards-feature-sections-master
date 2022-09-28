@@ -75,7 +75,7 @@ main {
   width: fit-content;
   align-self: flex-end;
 }
-h3 {
+h2 {
   color: var(--Very-Dark-Blue);
 }
 p {
